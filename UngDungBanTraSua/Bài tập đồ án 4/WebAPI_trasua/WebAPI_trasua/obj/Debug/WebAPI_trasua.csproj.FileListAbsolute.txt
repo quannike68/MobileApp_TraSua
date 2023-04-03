@@ -1,0 +1,182 @@
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\WebAPI_trasua.dll.config
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\WebAPI_trasua.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\WebAPI_trasua.pdb
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csc.exe
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csc.exe.config
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csc.rsp
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csi.exe
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csi.exe.config
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csi.rsp
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.AppContext.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Collections.Immutable.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Console.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.Compression.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.FileSystem.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Net.Http.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Net.Sockets.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.ValueTuple.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.XPath.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\vbc.exe
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\vbc.exe.config
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\vbc.rsp
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\VBCSCompiler.exe
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\roslyn\VBCSCompiler.exe.config
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Antlr3.Runtime.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Microsoft.Web.Infrastructure.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Newtonsoft.Json.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Swashbuckle.Core.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Net.Http.Formatting.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Helpers.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.WebHost.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Mvc.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Optimization.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Razor.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Deployment.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Razor.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\WebActivatorEx.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\WebGrease.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Newtonsoft.Json.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Net.Http.Formatting.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Helpers.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.WebHost.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Mvc.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Optimization.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Razor.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Deployment.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Razor.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Antlr3.Runtime.pdb
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.csproj.AssemblyReference.cache
+F:\Web api\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.csproj.CoreCompileInputs.cache
+F:\Web api\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.csproj.CopyComplete
+F:\Web api\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.pdb
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.SqlServer.dll
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.xml
+F:\Web api\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.SqlServer.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.csproj.AssemblyReference.cache
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.csproj.CoreCompileInputs.cache
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.pdb
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\WebAPI_trasua.dll.config
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\WebAPI_trasua.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\WebAPI_trasua.pdb
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csc.exe
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csc.exe.config
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csc.rsp
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csi.exe
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csi.exe.config
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\csi.rsp
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.AppContext.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Collections.Immutable.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Console.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Globalization.Calendars.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.Compression.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.FileSystem.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Net.Http.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Net.Sockets.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.ValueTuple.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.XPath.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\vbc.exe
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\vbc.exe.config
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\vbc.rsp
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\VBCSCompiler.exe
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\roslyn\VBCSCompiler.exe.config
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Antlr3.Runtime.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.SqlServer.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Microsoft.Web.Infrastructure.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Newtonsoft.Json.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Swashbuckle.Core.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Net.Http.Formatting.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Helpers.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.WebHost.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Mvc.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Optimization.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Razor.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Deployment.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Razor.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\WebActivatorEx.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\WebGrease.dll
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\EntityFramework.SqlServer.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Newtonsoft.Json.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Net.Http.Formatting.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Helpers.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Http.WebHost.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Mvc.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Optimization.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.Razor.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Deployment.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\System.Web.WebPages.Razor.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Antlr3.Runtime.pdb
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bài tập đồ án 4\WebAPI_trasua\WebAPI_trasua\obj\Debug\WebAPI_trasua.csproj.CopyComplete

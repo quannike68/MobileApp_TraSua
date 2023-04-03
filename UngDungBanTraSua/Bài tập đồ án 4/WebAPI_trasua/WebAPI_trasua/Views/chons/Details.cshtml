@@ -1,0 +1,50 @@
+﻿@model WebAPI_trasua.Models.chon
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Chi tiết lựa chọn</h2>
+
+<div>
+ 
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên lựa chọn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.the_loai)
+        </dd>
+
+        <dt>
+            Tên thành phần
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ten)
+        </dd>
+
+        <dt>
+            Giá tiền
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tien)
+        </dd>
+
+        <dt>
+           Ghi chú
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ghichu)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id_l }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,131 @@
+﻿@model WebAPI_trasua.Models.donhang
+@using WebAPI_trasua.Models
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Chi tiết đơn hàng</h2>
+
+<div>
+    <h4>Đơn hàng</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            ID tài khoản
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idtk)
+        </dd>
+
+        <dt>
+            ID giỏ hàng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idgh)
+        </dd>
+
+        <dt>
+            Lời nhắn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.loinhan)
+        </dd>
+
+        <dt>
+            Ngày giờ
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaygio)
+        </dd>
+
+        <dt>
+            Hành trình
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hanhchinh)
+        </dd>
+
+        <dt>
+            Ghi chú
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ghichu)
+        </dd>
+
+    </dl>
+
+</div>
+<div>
+    <h4>Giỏ hàng</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        @{
+           giohang giohangs = ViewBag.giohang as giohang;
+            if (giohangs != null)
+            {
+              
+                    <dt>
+                        ID Sản phẩm
+                    </dt>
+
+                    <dd>
+                        @giohangs.idsp
+                    </dd>
+
+                    <dt>
+                        Số lượng
+                    </dt>
+
+                    <dd>
+                        @giohangs.sl
+                    </dd>
+
+                    <dt>
+                        Lựa chọn
+                    </dt>
+
+                    <dd>
+                        @giohangs.chon
+                    </dd>
+
+                    <dt>
+                        Giá cho 1 sp
+                    </dt>
+
+                    <dd>
+                        @giohangs.giax1
+                    </dd>
+
+                    <dt>
+                        Tổng tiền
+                    </dt>
+
+                    <dd>
+                        @giohangs.tongtien
+                    </dd>
+                    <dt>
+                        Ghi chú
+                    </dt>
+
+                    <dd>
+                        @giohangs.ghichu
+                    </dd>
+                
+            }
+        }
+
+
+    </dl>
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.iddh }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

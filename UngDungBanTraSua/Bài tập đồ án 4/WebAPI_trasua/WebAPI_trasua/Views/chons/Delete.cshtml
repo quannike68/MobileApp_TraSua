@@ -1,0 +1,57 @@
+﻿@model WebAPI_trasua.Models.chon
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Xóa lựa chọn</h2>
+
+<h3>Bạn có chắc chắn muốn xóa danh mục này không?</h3>
+<div>
+    <h4>chon</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên lựa chọn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.the_loai)
+        </dd>
+
+        <dt>
+            Tên thành phần
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ten)
+        </dd>
+
+        <dt>
+            Giá tiền
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tien)
+        </dd>
+
+        <dt>
+            Ghi chú
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ghichu)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

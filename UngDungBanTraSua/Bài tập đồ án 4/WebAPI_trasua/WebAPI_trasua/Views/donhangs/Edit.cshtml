@@ -1,0 +1,145 @@
+﻿@model WebAPI_trasua.Models.donhang
+@using WebAPI_trasua.Models
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>donhang</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.iddh)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.idtk, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.idtk, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                @Html.ValidationMessageFor(model => model.idtk, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.idgh, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.idgh, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                @Html.ValidationMessageFor(model => model.idgh, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.loinhan, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.loinhan, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                @Html.ValidationMessageFor(model => model.loinhan, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ngaygio, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ngaygio, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                @Html.ValidationMessageFor(model => model.ngaygio, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.hanhchinh, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.hanhchinh,new SelectList(new List<string> { "Chờ duyệt", "Đã giao", "Đã hủy", "Đang giao" }), new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.hanhchinh, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ghichu, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ghichu, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ghichu, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div>
+            <h4>Giỏ hàng</h4>
+            <hr />
+            <dl class="dl-horizontal">
+                @{
+                    giohang giohangs = ViewBag.giohang as giohang;
+                    if (giohangs != null)
+                    {
+
+                        <dt>
+                            ID Sản phẩm
+                        </dt>
+
+                        <dd>
+                            @giohangs.idsp
+                        </dd>
+
+                        <dt>
+                            Số lượng
+                        </dt>
+
+                        <dd>
+                            @giohangs.sl
+                        </dd>
+
+                        <dt>
+                            Lựa chọn
+                        </dt>
+
+                        <dd>
+                            @giohangs.chon
+                        </dd>
+
+                        <dt>
+                            Giá cho 1 sp
+                        </dt>
+
+                        <dd>
+                            @giohangs.giax1
+                        </dd>
+
+                        <dt>
+                            Tổng tiền
+                        </dt>
+
+                        <dd>
+                            @giohangs.tongtien
+                        </dd>
+                        <dt>
+                            Ghi chú
+                        </dt>
+
+                        <dd>
+                            @giohangs.ghichu
+                        </dd>
+
+                    }
+                }
+
+
+            </dl>
+
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

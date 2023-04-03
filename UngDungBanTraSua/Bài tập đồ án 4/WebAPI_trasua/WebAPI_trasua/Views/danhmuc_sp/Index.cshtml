@@ -1,0 +1,53 @@
+﻿@model IEnumerable<WebAPI_trasua.Models.danhmuc_sp>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Danh mục</h2>
+
+<p>
+    @Html.ActionLink("Thêm danh mục", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Tên danh mục
+        </th>
+        <th>
+            Hình ảnh
+        </th>
+        <th>
+            Ghi chú
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.iddm)
+            </td>
+            <td>
+               
+                @Html.DisplayFor(modelItem => item.tendm)
+            </td>
+            <td>
+                <img src="@item.hinhanh"  width="100" height="100"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ghichu)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.iddm }) |
+                @Html.ActionLink("Details", "Details", new { id = item.iddm }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.iddm })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<WebAPI_trasua.Models.chon>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Thêm lựa chọn", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Id lựa chọn
+        </th>
+        <th>
+            Tên lựa chọn
+        </th>
+        <th>
+            Tên thành phần
+        </th>
+        <th>Giá tiền</th>
+        <th>
+            Ghi chú
+        </th>
+        <th>
+
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_l)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.the_loai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ghichu)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id_l }) |
+                @Html.ActionLink("Details", "Details", new { id = item.id_l }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id_l })
+            </td>
+        </tr>
+    }
+
+</table>

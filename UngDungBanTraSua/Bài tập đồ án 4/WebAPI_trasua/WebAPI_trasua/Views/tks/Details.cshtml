@@ -1,0 +1,50 @@
+﻿@model WebAPI_trasua.Models.tk
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tài khoản</h2>
+
+<div>
+    <h4>Chi tiết tài khoản</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Họ tên
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hoten)
+        </dd>
+
+        <dt>
+            Email
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+        <dt>
+            Số điện thoại
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sdt)
+        </dd>
+
+        <dt>
+            Địa chỉ
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diachi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+
+    @Html.ActionLink("Back to List", "Index")
+</p>

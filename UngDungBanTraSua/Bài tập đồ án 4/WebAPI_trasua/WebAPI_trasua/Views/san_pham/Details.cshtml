@@ -1,0 +1,66 @@
+﻿@model WebAPI_trasua.Models.san_pham
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Chi tiết sản phẩm</h2>
+
+<div>
+    <h4>san_pham</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Id Sản phẩm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idsp)
+        </dd>
+        <dt>
+            Id Danh mục
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.iddm)
+        </dd>
+
+        <dt>
+           Tên sản phẩm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tensp)
+        </dd>
+
+        <dt>
+            Giá tiền
+        </dt>
+
+        <dd>
+            @string.Format("{0:#,##0}",int.Parse(Model.giatien)) Đ
+        </dd>
+
+        <dt>
+            Hình ảnh
+        </dt>
+
+        <dd>
+            <img src="@Model.hinhanh" width="100" height="100"/>
+          
+        </dd>
+
+        <dt>
+            Ghi chú
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ghichu)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idsp }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
